@@ -2,7 +2,14 @@
 
 ## Full Stack Developer | Product-minded engineer
 
-Construyendo aplicaciones web escalables con stack moderno. Actualmente trabajo en una Pasarela de Delivery @PickerExpress como Tech lead full stack.
+Especialista en crear experiencias frontend, combinando desarrollo técnico con pensamiento estratégico de producto. Con +6 años transformando ideas en soluciones digitales escalables, actualmente lidero tanto el desarrollo como la evolución de producto, traduciendo necesidades de negocio en features que impactan directamente a usuarios y métricas.
+
+💡 Mi enfoque híbrido me permite:
+- Construir soluciones frontend modernas
+- Identificar oportunidades de mejora antes de que sean evidentes
+- Liderar implementación end-to-end desde concepto hasta producción
+- Gestionar sprints y roadmap con metodologías ágiles
+
 
 ### 🚀 ¿Qué estoy trabajando actualmente?
 - 🔨 Liderando y manteniendo arquitectura frontend
