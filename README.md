@@ -1,49 +1,69 @@
+# 👋 Hola, Soy Alex Daniel C.
+
+## Full Stack Developer | Product-minded engineer
+
+Construyendo aplicaciones web escalables con stack moderno. Actualmente trabajo en una Pasarela de Delivery @PickerExpress como Tech lead full stack.
+
+### 🚀 ¿Qué estoy trabajando actualmente?
+- 🔨 Liderando y manteniendo arquitectura frontend
+- 📱 Construyendo PWAs
+- 🤖 Aprendiendo integraciones de IA y automatización
+- 🌐 Explorando desarrollo Web3 y blockchain
+
+### 💻 Tech Stack
+
+**Frontend**
+```
+HTML5 • CSS3/Sass • JavaScript • TypeScript •
+React • Next.js • Manage Stores (Redux • Zustand) •
+Design Systems (Antd • Material UI • Atlassian) •
+Responsive Design • Progressive Web Apps (PWA)
+```
+
+**Backend**
+```
+Node.js • NestJS • Express • MongoDB • Firebase • RESTful APIs • WebSockets
+```
+
+**DevOps & Cloud**
+```
+Google Cloud Platform • Firebase • AWS
+Docker • CI/CD • Git/GitFlow
+```
+
+### 🎯 Proyectos
+
+**[📦 Booking Dashboard](https://dashboard.pickerexpress.com/)**
+Dashboard para administración de envíos
+- 🛠️ React + TypeScript + Vite
+- ☁️ AWS
+- 🎨 Customizable Antdesign theming
+
+**📦 Delivery Drivers PWA |**
+Progressive Web App para logística de delivery (migración desde app nativa)
+- 📱 Installable on any device
+- 🔄 Offline-first with service workers
+- 🗺️ Real-time tracking
+
+**🤖 Viernes - AI Meeting Assistant |**
+Automatización de transcripción y extracción de tareas
+- 🧠 n8n + Fathom + Claude MCP
+- 📝 Auto-generates action items
+- ✅ Integrates with Slack & Google Tasks
+
+**[📚 Rectoral Board](https://www.rectoralboard.com/)**
+Fundación de plataforma global para comunidades educativas
+- 🛠️ React + TypeScript + Vite
+- ☁️ AWS (SES + EC2 + SNS)
+- 🧪 Migración completa de arquitectura (Monolito => Micro servicios)
+
+**[🗂️ Rotary Ecuador | Feria de proyectos (2022)](http://www.bnrsistemas.com/rotaryecuador/)**
+Rediseño de sitio y vitrina digital de proyectos
+- 🛠️ VueJs + TypeScript
+- ☁️ Firebase (Hosting + Firestore + Storage)
 
 
-### Hola 👋
-
-#### Bienvenido a mi perfil, aquí un poco de mi experiencia y lo que he podido aprender hasta ahora.
-
-##### He llevado proyectos individuales, en equipo y partners, como agendas de citas virtuales, administradores de sitios, gestión de perfiles para fines educativos y servicios orientados al cliente. Si existe alguna tecnología o herramienta necesaria de conocer la aprendo en rápido y sobre la marcha mejorar siempre todo lo que haga. 
-
-### Soft Skills
-
-#### - Resolución de problemas
-#### - Gestión del tiempo
-#### - Productividad personal
-#### - Fit cultural
-
-### Hard Skills
-
-#### - NodeJs + Express
-#### - NestJs
-#### - MongoDB
-#### - Firebase (Firestore, Functions, RealTime DB, Messages Services)
-#### - VueJs
-#### - ReactJs
-#### - HTML + CSS
-#### - JavaScript
-#### - TypeScript
-#### - Flutter
-#### - Prototipados en Figma y Adobe XD
-
-### Formación académica
-
-#### - User Experience (UX) / User Interface (UI) Designer
-
-### Proyectos realizados y colaborados
-
-#### - Rectoral Board Institute https://rectoralboard.com/
-#### - UniODS https://uni-ods.org/
-#### - Standard Group https://grupostandard.org/
-#### - Sitio Oficial Rotary Ecuador http://www.bnrsistemas.com/rotaryecuador/
-#### - Feria de Proyectos Rotary Ecuador https://projectsfair-rotaryecuador.org/
-
-### Proyectos personales
-
-##### Me encuentro en proceso de desarrollo de un proyecto personal con un colega muy talentoso, el proyecto se llama Estudios MonoMate, llevamos proyectos de diseño publicidad y desarrollo, ayudamos a las empresas a posicionarse en medios digitales para mejorar su presencia en internet
-##### Puedes encontrar un poco de nuestro trabajo aquí 👇👇
-
-- [WebSite] https://estudiosmonomate.com/
-- [Instagram] https://www.instagram.com/estudiosmonomate/
+### 📫 Conecta conmigo
+- **[Mi perfil de LinkedIn](www.linkedin.com/in/alex-daniel-castillo-b-6b8602127)**
+- Email: castilloalex332@gmail.com | danielbetancourt02@outlook.com
 
